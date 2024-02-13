@@ -28,11 +28,21 @@
     {
       "id": "d364",
       "content": "PyTHON podría estar bien",
-      "important": true
+      "important": false
     },
     {
       "id": "451e",
       "content": "Esta es la ultima",
+      "important": true
+    },
+    {
+      "id": "fadc",
+      "content": "La App debe funcionar siempre",
+      "important": false
+    },
+    {
+      "id": "f8c5",
+      "content": "Esto es una prueba de subida on-line",
       "important": true
     }
   ]
